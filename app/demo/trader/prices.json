@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-10-30T19:45:00Z",
+  "source": "yahoo",
+  "note": "Demo prices.",
+  "prices": {
+    "AAPL": 352.1,
+    "AXP": 301.42,
+    "GOOGL": 371.55,
+    "KO": 88.73,
+    "BAC": 55.2
+  },
+  "detail": {}
+}

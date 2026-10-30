@@ -1,0 +1,33 @@
+{
+  "created_by": "trader-rebalance",
+  "created_at": "2026-10-30T16:05:00",
+  "status": "proposed",
+  "paper": true,
+  "source": "Berkshire Hathaway 13F-HR Q2 2026, top 5",
+  "orders": [
+    {
+      "symbol": "AXP",
+      "side": "sell",
+      "notional": "120",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drift -2.6 pts vs target; rebalance"
+    },
+    {
+      "symbol": "GOOGL",
+      "side": "buy",
+      "notional": "150",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drift +3.1 pts vs target; rebalance"
+    },
+    {
+      "symbol": "AAPL",
+      "side": "buy",
+      "notional": "300",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "brings AAPL back to its 30.67% target"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "orders": [
+    {
+      "date": "2026-10-13",
+      "index": 1,
+      "fingerprint": "e28158d8be1ebf06",
+      "symbol": "AAPL",
+      "side": "buy",
+      "plain": "BUY $1,250 of AAPL, market order, good for today",
+      "at": "2026-10-13T09:41:00",
+      "status": "approved",
+      "reply": "yes, AAPL"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 1,
+      "fingerprint": "e28158d8be1ebf06",
+      "symbol": "AAPL",
+      "side": "buy",
+      "plain": "BUY $1,250 of AAPL, market order, good for today",
+      "at": "2026-10-13T09:41:30",
+      "status": "placed",
+      "broker_order_id": "demo-1001"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 2,
+      "fingerprint": "8b3f7d1aeab89d95",
+      "symbol": "AXP",
+      "side": "buy",
+      "plain": "BUY $1,119 of AXP, market order, good for today",
+      "at": "2026-10-13T09:42:00",
+      "status": "approved",
+      "reply": "yes, AXP"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 2,
+      "fingerprint": "8b3f7d1aeab89d95",
+      "symbol": "AXP",
+      "side": "buy",
+      "plain": "BUY $1,119 of AXP, market order, good for today",
+      "at": "2026-10-13T09:42:30",
+      "status": "placed",
+      "broker_order_id": "demo-1002"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 3,
+      "fingerprint": "647b3d8b498bbcd4",
+      "symbol": "GOOGL",
+      "side": "buy",
+      "plain": "BUY $823 of GOOGL, market order, good for today",
+      "at": "2026-10-13T09:43:00",
+      "status": "approved",
+      "reply": "yes, GOOGL"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 3,
+      "fingerprint": "647b3d8b498bbcd4",
+      "symbol": "GOOGL",
+      "side": "buy",
+      "plain": "BUY $823 of GOOGL, market order, good for today",
+      "at": "2026-10-13T09:43:30",
+      "status": "placed",
+      "broker_order_id": "demo-1003"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 4,
+      "fingerprint": "cb5eb35cb0fcd66c",
+      "symbol": "KO",
+      "side": "buy",
+      "plain": "BUY $708 of KO, market order, good for today",
+      "at": "2026-10-13T09:44:00",
+      "status": "approved",
+      "reply": "yes, KO"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 4,
+      "fingerprint": "cb5eb35cb0fcd66c",
+      "symbol": "KO",
+      "side": "buy",
+      "plain": "BUY $708 of KO, market order, good for today",
+      "at": "2026-10-13T09:44:30",
+      "status": "placed",
+      "broker_order_id": "demo-1004"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 5,
+      "fingerprint": "e74f14ff9221ca09",
+      "symbol": "BAC",
+      "side": "buy",
+      "plain": "BUY $600 of BAC, market order, good for today",
+      "at": "2026-10-13T09:45:00",
+      "status": "approved",
+      "reply": "yes, BAC"
+    },
+    {
+      "date": "2026-10-13",
+      "index": 5,
+      "fingerprint": "e74f14ff9221ca09",
+      "symbol": "BAC",
+      "side": "buy",
+      "plain": "BUY $600 of BAC, market order, good for today",
+      "at": "2026-10-13T09:45:30",
+      "status": "placed",
+      "broker_order_id": "demo-1005"
+    },
+    {
+      "date": "2026-10-30",
+      "index": 1,
+      "fingerprint": "c9d1f85ba6479c01",
+      "symbol": "AXP",
+      "side": "sell",
+      "plain": "SELL $120 of AXP, market order, good for today",
+      "at": "2026-10-30T16:12:00",
+      "status": "approved",
+      "reply": "yes"
+    },
+    {
+      "date": "2026-10-30",
+      "index": 1,
+      "fingerprint": "c9d1f85ba6479c01",
+      "symbol": "AXP",
+      "side": "sell",
+      "plain": "SELL $120 of AXP, market order, good for today",
+      "at": "2026-10-30T16:12:20",
+      "status": "placed",
+      "broker_order_id": "demo-1006"
+    }
+  ]
+}

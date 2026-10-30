@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-30",
+  "paper": true,
+  "results": [
+    {
+      "index": 1,
+      "symbol": "AXP",
+      "side": "sell",
+      "amount": "$120",
+      "value_usd": 120.0,
+      "fingerprint": "c9d1f85ba6479c01",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "GOOGL",
+      "side": "buy",
+      "amount": "$150",
+      "value_usd": 150.0,
+      "fingerprint": "38eb06a3565cb9ea",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "AAPL",
+      "side": "buy",
+      "amount": "$300",
+      "value_usd": 300.0,
+      "fingerprint": "95a75eac5d7d411f",
+      "verdict": "BLOCK",
+      "reasons": [
+        "position: AAPL would be 26.9% of the account, your cap is 25%"
+      ],
+      "warnings": []
+    }
+  ],
+  "pass": 2,
+  "block": 1
+}
